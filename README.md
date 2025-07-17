@@ -19,12 +19,16 @@ Developed a complete relational database system from concept to visualization:
 - Executed queries and physical models in SSMS
 - Built basic Power BI dashboards to visualize database output
 
+### 🧮 [Financial Dashboard](https://github.com/amangill-data/financial-dashboard)
+Interactive dashboard visualizing winsorized financial ratios by industry. Developed collaboratively using Python, Pandas, and Streamlit. [Live Demo](https://financial-dashboard-naglt7ecvuzzncwv8ohicr.streamlit.app/).
+
+
 ---
 
 ## 📚 Skills
 - **Languages**: Python, SQL
 - **Libraries/Tools**: Pandas, NumPy, Matplotlib, Keras, Power BI, SSMS
-- **Concepts**: Deep Learning, EDA, ETL, ER Modeling, Data Visualization
+- **Concepts**: Deep Learning, Exploratory Data Analysis, ETL Pipelines, Model Deployment, Model Evaluation, Data Visualization, Data Wrangling
 
 ---
 
