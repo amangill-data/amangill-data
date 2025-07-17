@@ -12,16 +12,18 @@ Predictive modeling on the Pima Indians diabetes dataset using Keras MLPs. Explo
 ### 📊 [PEW Survey Analysis](https://github.com/amangill-data/pew-survey-analysis)
 Exploratory data analysis using PEW 2020 survey data to visualize age & income trends in foreign relations sentiment.
 
+### 🧮 [Financial Dashboard](https://github.com/amangill-data/financial-dashboard)
+Interactive dashboard visualizing winsorized financial ratios by industry. Developed collaboratively using Python, Pandas, and [Streamlit](https://financial-dashboard-naglt7ecvuzzncwv8ohicr.streamlit.app/).
+
+### 🧠 [CNN Image Classification](https://github.com/amangill-data/cnn-image-classification-tensorflow)
+Implemented and compared CNN models using TensorFlow on MNIST and CIFAR-10 datasets. Includes custom architecture, evaluation metrics, and result visualizations.
+
 ### 🗃️ ProfessIt – Teacher Rating System *(Academically verifiable, public code unavailable)*
 Developed a complete relational database system from concept to visualization:
 - Designed ER diagrams with attributes, keys, and relationships
 - Created normalized tables and migrated data using ETL
 - Executed queries and physical models in SSMS
 - Built basic Power BI dashboards to visualize database output
-
-### 🧮 [Financial Dashboard](https://github.com/amangill-data/financial-dashboard)
-Interactive dashboard visualizing winsorized financial ratios by industry. Developed collaboratively using Python, Pandas, and Streamlit. [Live Demo](https://financial-dashboard-naglt7ecvuzzncwv8ohicr.streamlit.app/).
-
 
 ---
 
