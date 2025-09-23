@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aman Gill
+# 👋 Greetings, I am Aman Gill
 
-Welcome to my GitHub! I’m a Graduate student pursuing a Master’s in Data Analytics with a concentration in AIML. My aim is to showcase my hands on experience in deep learning, data modeling, and analytical storytelling through Python, SQL, and data visualization tools.
+Welcome to my GitHub! I’m a Graduate student pursuing a Master’s in Data Analytics with a concentration in AI/ML. My aim is to showcase my hands on experience in deep learning, data modeling, and analytical storytelling through Python, SQL, and data visualization tools.
 
 ---
 
@@ -28,8 +28,8 @@ Developed a complete relational database system from concept to visualization:
 ---
 
 ## 📚 Skills
-- **Languages**: Python, SQL
-- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Keras, Power BI, SSMS
+- **Languages**: SQL, Python
+- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Sci-Kit Learn, Keras, Power BI, Streamlit, SSMS
 - **Concepts**: Deep Learning, Exploratory Data Analysis, ETL Pipelines, Model Deployment, Model Evaluation, Data Visualization, Data Wrangling
 
 ---
