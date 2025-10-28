@@ -18,13 +18,6 @@ Interactive dashboard visualizing winsorized financial ratios by industry. Devel
 ### 🧠 [CNN Image Classification](https://github.com/amangill-data/cnn-image-classification-tensorflow)
 Implemented and compared CNN models using TensorFlow on MNIST and CIFAR-10 datasets. Includes custom architecture, evaluation metrics, and result visualizations.
 
-### 🗃️ ProfessIt – Teacher Rating System *(Academically verifiable, public code unavailable)*
-Developed a complete relational database system from concept to visualization:
-- Designed ER diagrams with attributes, keys, and relationships
-- Created normalized tables and migrated data using ETL
-- Executed queries and physical models in SSMS
-- Built basic Power BI dashboards to visualize database output
-
 ---
 
 ## 📚 Skills
