@@ -25,8 +25,8 @@ Interactive dashboard visualizing winsorized financial ratios by industry. Devel
 
 ## 📚 Skills
 - **Languages**: SQL, Python
-- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Sci-Kit Learn, Keras, Power BI, Streamlit, SSMS
-- **Concepts**: Deep Learning, Exploratory Data Analysis, ETL Pipelines, Model Deployment, Model Evaluation, Data Visualization, Data Wrangling
+- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Sci-Kit Learn, Keras, Power BI, Dialogflow CX, Streamlit
+- **Concepts**: Deep Learning, Exploratory Data Analysis, ETL Pipelines, Model Deployment, Model Evaluation, Data Visualization, Data Wrangling, Conversational AI
 
 ---
 
