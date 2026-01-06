@@ -1,6 +1,6 @@
 # 👋 Greetings, I am Aman Gill
 
-Welcome to my GitHub! I’m a Graduate student pursuing a Master’s in Data Analytics with a concentration in AI/ML. My aim is to showcase my hands on experience in applied machine learning, learning, data modeling, & analytical storytelling through Python, SQL, Data Visualization tools, & Modern AI Platforms. 
+Welcome to my GitHub! I’m a Graduate student pursuing a Master’s in Data Analytics with a concentration in AI/ML. My aim is to showcase my hands on experience in applied machine learning, data modeling, & analytical storytelling through Python, SQL, Data Visualization tools, & Modern AI Platforms. 
 
 ---
 
