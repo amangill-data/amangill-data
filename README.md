@@ -1,6 +1,6 @@
 # 👋 Greetings, I am Aman Gill
 
-Welcome to my GitHub! I’m a Graduate student pursuing a Master’s in Data Analytics with a concentration in AI/ML. My aim is to showcase my hands on experience in applied machine learning, data modeling, & analytical storytelling through Python, SQL, Data Visualization tools, & Modern AI Platforms. 
+My passion lies in constructing the robust & scalable infrastructure that makes advanced analytics and artificial intelligence possible. Nowadays, My professional focus has been centered on the Modern Data Stack and cloud orchestration—leveraging tools like AWS, Snowflake, dbt, Apache Airflow, Apache Iceberg, and Docker. The featured projects below showcase my hands on background in data architecting, applied machine learning, predictive modeling, and conversational AI. 
 
 ---
 
