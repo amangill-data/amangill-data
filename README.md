@@ -21,9 +21,6 @@ Implemented and compared CNN models using TensorFlow on MNIST and CIFAR-10 datas
 ### 🚗 [NHTSA FARS Fatal Crash Analysis](https://github.com/amangill-data/FARS-Fatal-Crash-Analysis)
 ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 national census data. Involves EDA, modeling for alcohol impairment, and modeling for speeding involvement. 
 
-### 🧮 [Financial Dashboard](https://github.com/amangill-data/financial-dashboard)
-Interactive dashboard visualizing winsorized financial ratios by industry. Developed collaboratively using Python, Pandas, and [Streamlit](https://financial-dashboard-naglt7ecvuzzncwv8ohicr.streamlit.app/).
-
 ---
 
 ## 📚 Skills
