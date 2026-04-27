@@ -6,27 +6,30 @@ My passion lies in constructing the robust & scalable infrastructure that makes 
 
 ## Featured Projects: 
 
-### 🍕 [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
+### 💬🤖 [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
 Dialogflow CX conversational AI agent that simulates a full end-to-end pizza ordering and checkout experience using flow based dialog design, intent routing, and state management.
 
-### 🔬 [Pima Diabetes MLP](https://github.com/amangill-data/pima-diabetes-mlp)
+### 🔎📜 [Epidemiology RAG Pipeline](https://github.com/amangill-data/Epidemiology-RAG-Pipeline)
+Retrieval-Augmented Generation system querying 100 epidemiology research papers, and returning cited answers to natural language public health queries in seconds.
+
+### 🔬🕸️ [Pima Diabetes MLP](https://github.com/amangill-data/pima-diabetes-mlp)
 Predictive modeling on the Pima Indians diabetes dataset using Keras MLPs. Explored baseline vs optimized architectures to improve classification accuracy.
 
-### 📊 [PEW Survey Analysis](https://github.com/amangill-data/pew-survey-analysis)
+### 📊🕵️ [PEW Survey Analysis](https://github.com/amangill-data/pew-survey-analysis)
 Exploratory data analysis using PEW 2020 survey data to visualize age & income trends in foreign relations sentiment.
 
-### 🧠 [CNN Image Classification](https://github.com/amangill-data/cnn-image-classification-tensorflow)
+### 🧠🖼️ [CNN Image Classification](https://github.com/amangill-data/cnn-image-classification-tensorflow)
 Implemented and compared CNN models using TensorFlow on MNIST and CIFAR-10 datasets. Includes custom architecture, evaluation metrics, and result visualizations.
 
-### 🚗 [NHTSA FARS Fatal Crash Analysis](https://github.com/amangill-data/FARS-Fatal-Crash-Analysis)
+### 📈🚗 [NHTSA FARS Fatal Crash Analysis](https://github.com/amangill-data/FARS-Fatal-Crash-Analysis)
 ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 national census data. Involves EDA, modeling for alcohol impairment, and modeling for speeding involvement. 
 
 ---
 
 ## 📚 Skills
 - **Languages**: SQL, Python
-- **Libraries/Tools**: Pandas, NumPy, Seaborn, Matplotlib, Sci-Kit Learn, Keras, Tensorflow, Google Dialogflow CX
-- **Concepts**: Machine Learning, Deep Learning, Conversational AI, ETL/ELT Pipelines, Exploratory Data Analysis, Data Visualization
+- **Libraries/Tools**: Pandas, NumPy, Seaborn, Matplotlib, Sci-Kit Learn, Keras, Tensorflow, Google Dialogflow CX, LangChain, ChromaDB, Vertex AI
+- **Concepts**: Machine Learning, Deep Learning, ETL/ELT Pipelines, Exploratory Data Analysis, Data Visualization, Retrieval-Augmented Generation, Vector Embeddings, Conversational AI
 
 ---
 
