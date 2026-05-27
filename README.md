@@ -1,10 +1,10 @@
 # 👋🏽 Greetings, I am Aman Gill
 
-My passion lies in constructing the robust & scalable infrastructure that makes advanced analytics and artificial intelligence possible. Nowadays, My professional focus has been centered on the Modern Data Stack and cloud orchestration, leveraging platforms & tools like: AWS, Snowflake, dbt, Apache Airflow, Apache Iceberg, and Docker. The featured projects below showcase my hands on background in data architecting, applied machine learning, predictive modeling, and conversational AI. 
+I'm a Junior Data/AI Engineer, with a M.S in Data Analytics (AIML Concentration) from the University of North Texas. My passion lies in constructing robust & scalable infrastructure that empowers analytics and artificial intelligence. Nowadays, My professional focus has been centered on the Modern Data Stack & Cloud Orchestration leveraging platforms & tools like: AWS, Snowflake, dbt, Apache Airflow, Apache Iceberg, and Docker. The featured projects below showcase my hands-on, personal/academic related involvement in data architecting, applied machine learning, predictive modeling, and conversational AI. 
 
 ---
 
-## Featured Projects: 
+## Featured Graduate Projects: 
 
 ### 💬🤖 [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
 Dialogflow CX conversational AI agent that simulates a full end-to-end pizza ordering and checkout experience using flow based dialog design, intent routing, and state management.
