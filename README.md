@@ -4,7 +4,7 @@ I'm a Junior Data/AI Engineer, with a M.S in Data Analytics (AIML Concentration)
 
 ---
 
-## Featured Graduate Projects: 
+## Featured Graduate Projects
 
 ### 💬🤖 [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
 Dialogflow CX conversational AI agent that simulates a full end-to-end pizza ordering and checkout experience using flow based dialog design, intent routing, and state management.
