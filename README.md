@@ -17,14 +17,14 @@ ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 n
 
 ---
 
-## Pertinent Areas
+## Relevant Areas
 - **Languages**: SQL, Python
 - **Libraries/Tools**: Pandas, NumPy, Seaborn, Matplotlib, Sci-Kit Learn, Keras, Tensorflow, Google Dialogflow CX, LangChain, ChromaDB, Vertex AI
 - **Concepts**: Machine Learning, Deep Learning, ETL/ELT Pipelines, Exploratory Data Analysis, Data Visualization, Retrieval-Augmented Generation, Vector Embeddings, Conversational AI
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/amangill23/) • [Resume](https://1drv.ms/w/c/c9ec520228c970b8/EeBOd5TTKVNNjlsWsF4krk4B9aSWW_9IjLgv6JXgX4OZWw?e=pn4O9e)
 
 <!--
