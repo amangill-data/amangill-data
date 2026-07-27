@@ -1,6 +1,6 @@
 # Howdy! I'm Aman Gill
 
-I'm a Junior Data/AI Engineer, with a M.S in Data Analytics (AIML Concentration) from the University of North Texas. My passion lies in constructing robust & scalable infrastructure that empowers analytics and artificial intelligence. Nowadays, My professional focus has been centered on the Modern Data Stack & Cloud Orchestration leveraging platforms & tools like: AWS, Snowflake, dbt, Apache Airflow, Apache Iceberg, and Docker. Below is some of my Graduate Program related + personal, hands-on projects involving data architecting, applied machine learning, predictive modeling, and conversational AI. 
+I'm a Product Engineer with an M.S. in Data Analytics (AI/ML Concentration) from the University of North Texas. My passion lies in building data-driven, intelligent product features by leveraging robust data pipelines and scalable cloud architecture. Currently, my professional focus is centered on engineering complete **Full-Stack Applications, E2E Data Pipelines, and RAG & NLP Systems** backed by robust **System Design** principles on **AWS and Snowflake**
 
 ---
 
