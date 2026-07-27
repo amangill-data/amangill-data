@@ -18,9 +18,33 @@ ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 n
 ---
 
 ## Relevant Areas
-| Languages | Libraries & Tools | Core Concepts |
-| :--- | :--- | :--- |
-| • SQL<br>• Python | • Pandas, NumPy<br>• Seaborn, Matplotlib<br>• Sci-Kit Learn<br>• Keras, TensorFlow<br>• Dialogflow CX<br>• LangChain, ChromaDB<br>• Vertex AI | • Machine Learning<br>• Deep Learning<br>• ETL/ELT Pipelines<br>• Exploratory Data Analysis<br>• Data Visualization<br>• Retrieval-Augmented Generation<br>• Vector Embeddings<br>• Conversational AI |
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+* **Languages:** SQL, Python
+* **Frameworks:** Keras, TensorFlow
+* **Data:** Pandas, NumPy, Seaborn, Matplotlib
+* **ML/AI:** Sci-Kit Learn, Vertex AI
+* **LLM Ops:** LangChain, ChromaDB, Dialogflow CX
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Core Concepts
+* Machine Learning & Deep Learning
+* ETL/ELT Pipelines
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Retrieval-Augmented Generation (RAG)
+* Vector Embeddings & Conversational AI
+
+</td>
+</tr>
+</table>
+
 
 
 ---
