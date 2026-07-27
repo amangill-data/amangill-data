@@ -6,13 +6,13 @@ I'm a Junior Data/AI Engineer, with a M.S in Data Analytics (AIML Concentration)
 
 ## Featured Graduate Projects
 
-### 💬🤖 [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
+### [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
 Dialogflow CX conversational AI agent that simulates a full end-to-end pizza ordering and checkout experience using flow based dialog design, intent routing, and state management.
 
-### 🔎📜 [Epidemiology RAG Pipeline](https://github.com/amangill-data/Epidemiology-RAG-Pipeline)
+### [Epidemiology RAG Pipeline](https://github.com/amangill-data/Epidemiology-RAG-Pipeline)
 Retrieval-Augmented Generation system querying 100 epidemiology research papers, and returning cited answers to natural language public health queries in seconds.
 
-### 📈🚗 [NHTSA FARS Fatal Crash Analysis](https://github.com/amangill-data/FARS-Fatal-Crash-Analysis)
+### [NHTSA FARS Fatal Crash Analysis](https://github.com/amangill-data/FARS-Fatal-Crash-Analysis)
 ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 national census data. Involves EDA, modeling for alcohol impairment, and modeling for speeding involvement. 
 
 ---
