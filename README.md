@@ -1,6 +1,6 @@
 # Howdy! I'm Aman Gill
 
-I'm a Product Engineer with an M.S. in Data Analytics (AI/ML Concentration) from the University of North Texas. My passion lies in building data-driven, intelligent product features by leveraging robust data pipelines and scalable cloud architecture. Currently, my professional focus is centered on engineering complete **Full-Stack Applications, E2E Data Pipelines, and RAG & NLP Systems** backed by robust **System Design** principles on **AWS and Snowflake**
+I'm a Product Engineer with an M.S. in Data Analytics (AI/ML Concentration) from the University of North Texas. My passion lies in building data-driven, intelligent product features by leveraging robust data pipelines and scalable cloud architecture. My professional focus is centered on engineering complete **Full-Stack Applications, E2E Data Pipelines, and RAG & NLP Systems** backed by robust **System Design** principles on **AWS and Snowflake**
 
 ---
 
