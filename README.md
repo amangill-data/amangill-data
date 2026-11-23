@@ -32,6 +32,7 @@ ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 n
 <td width="50%" valign="top">
 
 ### Tech Stack
+* **Platforms:** AWS, Snowflake
 * **Languages:** SQL, Python
 * **Frameworks:** Keras, TensorFlow
 * **Data:** Pandas, NumPy, Seaborn, Matplotlib
@@ -42,6 +43,7 @@ ML classification pipeline on 37K+ fatal U.S. traffic crashes, using FARS 2023 n
 <td width="50%" valign="top">
 
 ### Core Concepts
+* Cloud Data Architecture
 * Machine Learning & Deep Learning
 * ETL/ELT Pipelines
 * Exploratory Data Analysis (EDA)
