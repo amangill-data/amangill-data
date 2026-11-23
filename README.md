@@ -6,6 +6,12 @@ Below are some of my graduate-level and personal hands-on projects involving dat
 
 ---
 
+## Personal Projects | Ongoing 
+
+### [Snowflake & AWS Real-Time Ticketing Pipeline](https://github.com/amangill-data/real-time-ticketing-pipeline-aws-snowflake)
+Project use case simulating a musical venue's ticket sellout. Presented during DFW User Group collaboration between AWS & Snowflake, July 2026. Highlights AWS as Ingest/Storage layer, 
+and Snowflake as the Transformation/BI Layer. Published both as a Snowflake QuickStart guide, and Snowflake Developers Walkthrough on Youtube. 
+
 ## Featured Graduate Projects | Dec 2025 - May 2026
 
 ### [Google Dialogflow Pizza Order Bot](https://github.com/amangill-data/dialogflow-cx-pizza-agent)
