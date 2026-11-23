@@ -6,7 +6,7 @@ Below are some of my graduate-level and personal hands-on projects involving dat
 
 ---
 
-## Personal Projects | Ongoing 
+## Personal Projects
 
 ### [Snowflake & AWS Real-Time Ticketing Pipeline](https://github.com/amangill-data/real-time-ticketing-pipeline-aws-snowflake)
 Project use case simulating a musical venue's ticket sellout. Presented during DFW User Group collaboration between AWS & Snowflake, July 2026. Highlights AWS as Ingest/Storage layer, 
